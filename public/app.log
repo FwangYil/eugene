@@ -1,0 +1,5 @@
+{"message":"::1 - - [19/Mar/2021:12:31:27 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36\"\n","level":"info"}
+2021-03-19T13:05:25.020Z [[32minfo[39m]: ::1 - - [19/Mar/2021:13:05:25 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36"
+{}
+2021-03-19T13:06:42.124Z [[32minfo[39m]: ::1 - - [19/Mar/2021:13:06:42 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36"
+{}
